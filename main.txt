@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+
+int sum(int a, int b, int c);
+
+int diff(int a, int b, int c);
+
+int main()
+{
+	cout << "this line wont dev";
+	cout << "guess why";
+	cout << "dear student!\n";
+	cout << "lets try now concept!\n";
+	cout << "learning git is fun\n";
+	cout << "master add";
+
+}
+int sum(int a, int b, int c)
+{
+	return a + b + c;
+}
+int diff(int a, int b, int c)
+{
+	return a - b - c;
+}
